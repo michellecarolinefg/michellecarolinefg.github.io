@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(165, 229, 96);
+}
+
+h1,h2,h3,h4,h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkred;
+    text-align: center;
+    border: solid 2px darkgreen;
+    padding: 10px 10px;
+    margin: 30px 200px;
+    background-color: rgba(255, 106, 0, 0.677);
+}
+
+p {
+    background-color: chartreuse;
+    text-align: center;
+}
+
+.titulo2 {
+    background-color: crimson;
+    text-align: center;
+}
+.titulo3 {
+    background-color: rgb(193, 220, 20);
+    text-align: center;
+
+}
+.titulo4 {
+    background-color: rgb(220, 130, 20);
+    text-align: center;
+}
+
+#titulo5 {
+    background-color: rgb(90, 20, 220);
+    text-align: center;
+}
+img {
+    padding-left: 500px;
+    padding-bottom: 30px;
+}
